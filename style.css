@@ -1,0 +1,15 @@
+div #root {
+  margin-left: 35px;
+  border-style: groove;
+  border-radius: 20;
+  background-color: rgb(207, 229, 229);
+}
+body {
+  margin: 25px;
+}
+
+form {
+  margin: 35px;
+  border-style: groove;
+  display: inline;
+}
